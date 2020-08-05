@@ -6256,11 +6256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IT16072020\\Desktop\\Test\\dotNetCoreAPI\\testAspOracle01\\testAspOracle01.csproj",
+      "projectUniqueName": "C:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj",
       "projectName": "testAspOracle01",
-      "projectPath": "C:\\Users\\IT16072020\\Desktop\\Test\\dotNetCoreAPI\\testAspOracle01\\testAspOracle01.csproj",
+      "projectPath": "C:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj",
       "packagesPath": "C:\\Users\\IT16072020\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IT16072020\\Desktop\\Test\\dotNetCoreAPI\\testAspOracle01\\obj\\",
+      "outputPath": "C:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IT16072020\\AppData\\Roaming\\NuGet\\NuGet.Config",
