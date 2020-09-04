@@ -108,3 +108,4 @@ C:\Users\IT16072020\Documents\GitHub\ingeniOracleBackEnd\obj\Debug\netcoreapp3.1
 C:\Users\IT16072020\Documents\GitHub\ingeniOracleBackEnd\obj\Debug\netcoreapp3.1\testAspOracle01.dll
 C:\Users\IT16072020\Documents\GitHub\ingeniOracleBackEnd\obj\Debug\netcoreapp3.1\testAspOracle01.pdb
 C:\Users\IT16072020\Documents\GitHub\ingeniOracleBackEnd\obj\Debug\netcoreapp3.1\testAspOracle01.genruntimeconfig.cache
+C:\Users\IT16072020\Documents\GitHub\ingeniOracleBackEnd\bin\Debug\netcoreapp3.1\dotnet-ef.dll

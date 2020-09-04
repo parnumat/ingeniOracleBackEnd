@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj": {}
+    "c:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj": {
+    "c:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj",
+        "projectUniqueName": "c:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj",
         "projectName": "testAspOracle01",
-        "projectPath": "C:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj",
+        "projectPath": "c:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\testAspOracle01.csproj",
         "packagesPath": "C:\\Users\\IT16072020\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\obj\\",
+        "outputPath": "c:\\Users\\IT16072020\\Documents\\GitHub\\ingeniOracleBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IT16072020\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,6 +53,10 @@
             "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
               "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.1, )"
             },
             "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
               "target": "Package",
